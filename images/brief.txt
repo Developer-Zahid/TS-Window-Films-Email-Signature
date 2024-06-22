@@ -1,0 +1,7 @@
+color:
+Title - #4b505a
+contact - #232528
+disclaimer - #8d9093
+
+
+Disclaimer: This email is confidential and may also be privileged. If you are not the intended recipient. Please notify the sender immediately; you should not copy the email or use it for any purpose or disclose its contents to any other person. Any statements made, or intentions expressed in this communication may not necessarily reflect the view of TS Window Films LTD.
